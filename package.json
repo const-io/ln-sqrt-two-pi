@@ -1,7 +1,7 @@
 {
   "name": "const-ln-sqrt-two-pi",
   "version": "0.0.0",
-  "description": "ln(sqrt(2π)).",
+  "description": "Natural logarithm of the square root of 2π.",
   "author": {
     "name": "Athan Reines",
     "email": "kgryte@gmail.com"
