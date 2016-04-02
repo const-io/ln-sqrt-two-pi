@@ -20,7 +20,7 @@ var LN_SQRT_TWO_PI = require( 'const-ln-sqrt-two-pi' );
 
 #### LN_SQRT_TWO_PI
 
-[Natural logarithm][math-ln] of the [square root][math-ln] of [2π][const-pi].
+[Natural logarithm][math-ln] of the [square root][math-sqrt] of [2π][const-pi].
 
 ``` javascript
 LN_SQRT_TWO_PI === 0.9189385332046728;
